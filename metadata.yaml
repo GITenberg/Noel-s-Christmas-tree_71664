@@ -1,0 +1,27 @@
+_repo: Noel-s-Christmas-tree_71664
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Feuvre, Amy
+    aliases:
+    - Feuvre, Amy Le
+    - Feuvre, Amy le
+    deathdate: 1929
+    gutenberg_agent_id: '3736'
+    url: http://www.gutenberg.org/2009/agents/3736
+description: ''
+gutenberg_issued: '2023-09-16'
+identifiers:
+  gutenberg: '71664'
+language: en
+pgterms:marc905: 20230912114133lefeuvre
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bWard, Lock & Co., Limited, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Noel's Christmas tree
+url: http://www.gutenberg.org/ebooks/71664
